@@ -1,2 +1,0 @@
-#Bubble Sort
-This algorithm is one of the simplest algorithm available for sorting. In this algorithm the current element of array is compared with the next element of the array and if the next element is found to be small then it is swapped.
